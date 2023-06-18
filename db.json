@@ -1,4 +1,5 @@
 {
+    
     "arrival": [
       {
         "src1": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04543-1RP900_4_lar.jpg",
@@ -1733,5 +1734,13 @@
           "email" : "harshit@gmail.com",
           "password" : "admin"
         }
+        ],
+        "user" : [
+          {
+            "firstname" : "sharvari",
+             "lastname" : "hupare",
+            "email" : "sharvarihupare@gmail.com",
+            "password" : "1234567"
+          }
         ]
   }
